@@ -1,0 +1,10 @@
+.body {
+    flex: 0.8;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.body__videoCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
